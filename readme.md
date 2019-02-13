@@ -35,9 +35,7 @@ Dim tbl As Table
 End Sub
 ```
 
-And not only that singe table but all tables in your current documentation.
-
-### Before
+And not only that single table but all tables in your current documentation.
 
 ## License
 
