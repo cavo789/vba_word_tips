@@ -1,6 +1,6 @@
-![Banner](images/banner.png)
-
 # VBA Word tips
+
+![Banner](./banner.svg)
 
 > A few Word tips
 
